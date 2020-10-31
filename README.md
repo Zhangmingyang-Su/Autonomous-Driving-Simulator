@@ -13,14 +13,8 @@ This repository is for Self-Driving Cars simulator by using Udacity testing driv
 ## Vitual Environment Setup for Simulation
 ```
 conda create --name myenviron
-```
-```
 source activate myenviron
-```
-```
 conda install -c anaconda flask
-```
-```
 conda install -c conda-forge python-socketio
 ```
 
