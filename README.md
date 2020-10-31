@@ -1,3 +1,14 @@
-# Autonomous-Driving-Simulator
+# Autonomous Driving Simulator
+This repository is for Self-Driving Cars simulator by using Udacity testing driving mode. Connecting Flask framework to implement real-time autonomous driving condition.
 
-### Image Dataset and CSV files: [Link](https://github.com/rslim087a/track)
+## Dataset
+* [Link](https://github.com/rslim087a/track)
+
+
+## installation
+* Keras
+* OpenCV
+* imgaug
+
+## Vitual Environment for simulation
+* conda create --name myenviron
