@@ -5,12 +5,12 @@ This repository is for Self-Driving Cars simulator by using Udacity testing driv
 * [Link](https://github.com/rslim087a/track)
 
 
-## installation
+## Package Installation
 * Keras
 * OpenCV
 * imgaug
 
-## Vitual Environment for simulation
+## Vitual Environment Setup for Simulation
 ```
 conda create --name myenviron
 ```
@@ -23,3 +23,5 @@ conda install -c anaconda flask
 ```
 conda install -c conda-forge python-socketio
 ```
+
+## Udacity Simulator for Autonomous Driving([Github](https://github.com/udacity/self-driving-car-sim))
