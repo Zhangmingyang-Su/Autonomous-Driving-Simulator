@@ -30,10 +30,14 @@ A end-to-end model in this repository is Nvidia model as described in [End-to-En
 ![](Autonomous%20Driving%20Simulator/pics/nvidia.png)
 
 ## Result
-* Condition 1 - Straight Line
+* Straight Line
 
-![](Autonomous%20Driving%20Simulator/pics/result.gif)
+![](Autonomous%20Driving%20Simulator/pics/result1.gif)
 
-* Condition 2 - Left Turn
+* Left Turn
 
 ![](Autonomous%20Driving%20Simulator/pics/result2.gif)
+
+* Right Turn
+
+![](Autonomous%20Driving%20Simulator/pics/result3.gif)
