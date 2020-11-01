@@ -45,3 +45,10 @@ A end-to-end model in this repository is Nvidia model as described in [End-to-En
 Test and train error decline dramatically after transformation, augmentation, preprocessing, model application. Image Shows by using batch generator to compute on the fly without storing data into the memory.
 
 ![](Autonomous%20Driving%20Simulator/pics/test.png)
+
+## Usage
+1. Download dataset from github.
+2. Run ```main.py```script to train and save the model.
+3. Activate vitual environment for Udacity simulator.
+4. Run ```drive.py``` script to connect to the flask frame.
+5. Start simulator.
