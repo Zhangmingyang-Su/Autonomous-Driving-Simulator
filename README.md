@@ -18,7 +18,7 @@ conda install -c anaconda flask
 conda install -c conda-forge python-socketio
 ```
 
-## Udacity Simulator for Autonomous Driving([Github](https://github.com/udacity/self-driving-car-sim))
+## Udacity Simulator for Autonomous Driving - [Github Link](https://github.com/udacity/self-driving-car-sim)
 ![](Autonomous%20Driving%20Simulator/pics/udacity.png)
 ![](Autonomous%20Driving%20Simulator/pics/av.png)
 
