@@ -48,7 +48,7 @@ Test and train error decline dramatically after transformation, augmentation, pr
 
 ## Usage
 1. Download dataset from github.
-2. Run ```main.py```script to train and save the model.
+2. Run ```main.py```script or ```Autonomous_Driving.ipynb.py``` to train and save the model.
 3. Activate vitual environment for Udacity simulator.
 4. Run ```drive.py``` script to connect to the flask frame.
 5. Start simulator.
