@@ -22,7 +22,7 @@ conda install -c conda-forge python-socketio
 ![](Autonomous%20Driving%20Simulator/pics/udacity.png)
 ![](Autonomous%20Driving%20Simulator/pics/av.png)
 
-Download Udacity simulator application for autonomous test
+Download Udacity simulator application for autonomous driving test
 
 
 ## Model Architecture
