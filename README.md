@@ -42,6 +42,6 @@ A end-to-end model in this repository is Nvidia model as described in [End-to-En
 
 ![](Autonomous%20Driving%20Simulator/pics/result3.gif)
 
-Results for test and train error works very well, Image Shows after 100 epochs.
+Test and train error decline dramatically after transformation, augmentation, preprocessing, model application. Image Shows by using batch generator to compute on the fly without storing data into the memory.
 
 ![](Autonomous%20Driving%20Simulator/pics/test.png)
