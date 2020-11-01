@@ -10,7 +10,7 @@ This repository is for Self-Driving Cars simulator by using Udacity testing driv
 * OpenCV
 * imgaug
 
-## Vitual Environment Setup for Simulation
+## Virtual Environment Setup for Simulation
 ```
 conda create --name myenviron
 source activate myenviron
@@ -49,6 +49,6 @@ Test and train error decline dramatically after transformation, augmentation, pr
 ## Usage
 1. Download dataset from github.
 2. Run ```main.py```script or ```Autonomous_Driving.ipynb``` to train and save the model.
-3. Activate vitual environment for Udacity simulator.
+3. Activate virtual environment for Udacity simulator.
 4. Run ```drive.py``` script to connect to the flask frame.
 5. Start simulator.
