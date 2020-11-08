@@ -26,7 +26,7 @@ Download Udacity simulator application for autonomous driving test.
 
 
 ## Model Architecture
-A end-to-end model in this repository is Nvidia model as described in [End-to-End Deep Learning for Self-Driving Cars](https://developer.nvidia.com/blog/deep-learning-self-driving-cars/)
+A end-to-end model in this repository is Nvidia model as described in [End-to-End Deep Learning for Self-Driving Cars](https://developer.nvidia.com/blog/deep-learning-self-driving-cars/).
 ![](Autonomous%20Driving%20Simulator/pics/nvidia.png)
 
 ## Result
